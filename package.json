@@ -1,0 +1,29 @@
+{
+  "name": "upnext",
+  "version": "1.0.0",
+  "description": "Real-time digital token and queue management system for clinics and venues",
+  "private": false,
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/upnext.git"
+  },
+  "keywords": [
+    "queue-management",
+    "digital-token",
+    "realtime",
+    "socket-io",
+    "postgresql",
+    "prisma",
+    "react",
+    "express"
+  ],
+  "author": "Abdullah Formuli <authrainmedia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/upnext/issues"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/upnext#readme"
+}

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use UpNext, please cite it as below."
+authors:
+  - family-names: Formuli
+    given-names: Abdullah
+    email: authrainmedia@gmail.com
+title: "UpNext: Real-Time Digital Token & Queue Management System"
+version: 1.0.0
+date-released: 2026-11-23
+url: "https://github.com/authrain-cloud-abdullahformuli/upnext"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/upnext"
+license: MIT
